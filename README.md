@@ -29,3 +29,15 @@ PR welcome! Tambah resource bermanfaat via Pull Request.
 
 ---
 <p align="center"><b>Always Smile :)</b> | Tulungagung, Jawa Timur</p>
+
+## 📝 Guides (Tulisan Tanpa Video)
+- [Cara Memulai Bug Bounty untuk Pemula](guides/bug-bounty-pemula.md) - Baru!
+- [5 Kesalahan Password](guides/password-aman.md) - Baru!
+MD
+cat README.md | tail -n 15
+git add guides/ README.md && git config user.name "TulungagungBlackHat" && git config user.email "tulungagungblackhat@users.noreply.github.com" && git commit -m "docs: tambah 2 guides tulisan tanpa video" && git push 2>&1 | tail -n 3
+echo "BLOG_DONE:$?"
+
+## 📝 Guides (Tulisan Tanpa Video)
+- [Cara Memulai Bug Bounty untuk Pemula](guides/bug-bounty-pemula.md) - Baru!
+- [5 Kesalahan Password](guides/password-aman.md) - Baru!
