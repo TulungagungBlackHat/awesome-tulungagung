@@ -14,6 +14,7 @@ Kumpulan resource **Cyber Security, Ethical Hacking & Bug Bounty** kurasi **Tulu
 - [TBH-PassStrength](https://github.com/TulungagungBlackHat/TBH-PassStrength) - Password Checker
 - [uchil404-ddos](https://github.com/TulungagungBlackHat/uchil404-ddos) - Stress Testing (edu)
 - [darkfb](https://github.com/TulungagungBlackHat/darkfb) - FB Security (edu)
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## 📚 Belajar Gratis
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
