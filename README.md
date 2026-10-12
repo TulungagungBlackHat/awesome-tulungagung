@@ -24,13 +24,12 @@ Toolset open-source dari Tulungagung Black Hat — Termux-friendly, MIT licensed
 
 | Tool | Fungsi |
 |------|--------|
-| [TBH-Toolkit](https://github.com/TulungagungBlackHat/TBH-Toolkit) | Installer satu baris untuk semua tool |
-| [TBH-Recon](https://github.com/TulungagungBlackHat/TBH-Recon) | Web recon: headers, SSL, port, subdomain |
-| [TBH-AllScan](https://github.com/TulungagungBlackHat/TBH-AllScan) | 10-in-one scanner + risk score |
-| [TBH-PortScanner](https://github.com/TulungagungBlackHat/TBH-PortScanner) | Port scanner multithread |
-| [TBH-PhishDetector](https://github.com/TulungagungBlackHat/TBH-PhishDetector) | Deteksi URL phishing (9 heuristik) |
-| [TBH-PassStrength](https://github.com/TulungagungBlackHat/TBH-PassStrength) | Cek & generate password kuat |
+| [TBH-Toolkit](https://github.com/TulungagungBlackHat/TBH-Toolkit) | Satu repo, 19 subcommand: `tbh recon`, `tbh xss`, `tbh scan`, menu + curses UI |
 | [TBH-CTF](https://github.com/TulungagungBlackHat/TBH-CTF) | Mini CTF 3 challenge pemula |
+
+Tool TBH lain (Recon, XSS, PortScanner, ...) sekarang archived, kodenya pindah
+ke [TBH-Toolkit](https://github.com/TulungagungBlackHat/TBH-Toolkit) — tinggal
+`git clone` sekali, jalanin `python3 tbh`.
 
 Daftar lengkap: [github.com/TulungagungBlackHat](https://github.com/TulungagungBlackHat)
 
